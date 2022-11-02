@@ -23,7 +23,7 @@
   </a>
 </p>
 <a href="https://kevinriveros.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/kevin-riveros/kevin-riveros/main/batman.jpg" align="right" height="200" />
+  <img src="https://raw.githubusercontent.com/kevin-riveros/kevin-riveros/main/batman.jpeg" align="right" height="200" />
 </a>
 
 ## About me
